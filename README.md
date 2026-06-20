@@ -5,7 +5,7 @@ JOELMA é uma assistente virtual desenvolvida durante o estágio de TI no Tribun
 ## 🧠 Descrição Geral
 
 ### **O que é o assistente virtual**
-JOELMA é um assistente virtual de automação voltado para fluxos internos de TI. Ele auxilia na organização de compromissos, gerenciamento de notas, fornecimento de documentos pré-formatados e alternância entre modos de digitação e voz.
+JOELMA é um assistente virtual de automação voltado para fluxos internos de TI. Ele auxilia em gerenciamento de contatos, agenda com notificações automáticas, anotações, biblioteca de procedimentos, automações programadas, macros de inserção rápida e painel de acompanhamento (HUD), visando aumentar a produtividade e reduzir tarefas repetitivas.
 
 ### **Qual problema ele resolve**
 - Reduz tarefas repetitivas feitas manualmente.
@@ -39,9 +39,9 @@ JOELMA é um assistente virtual de automação voltado para fluxos internos de T
 - Criar, listar, atualizar e excluir notas
 - Organização por tags, datas ou categorias
 
-### 📄 PDFs prontos
-- PDFs usados no dia a dia (Petrus, F.A Dipol, robôs de automação)
-- Possibilidade de personalização futura
+### 📄 Macros
+- Textos pré-escritos pelos usuário
+- Agilizando o envio de mensagens 
 
 ### 🎙️ Modo voz e digitação
 - Reconhecimento de voz
@@ -70,7 +70,6 @@ Usuário → Interface CLI → Núcleo da Assistente → (Agendamentos / Notas /
 ### Pré-requisitos
 - Python 3.10+
 - Pip instalado
-- Microfone (para modo voz)
 
 ### Instalação
 ```bash
@@ -105,4 +104,4 @@ pytest
 3. Pull Request
 
 ## 📄 Licença
-MIT
+
